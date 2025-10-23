@@ -2,9 +2,18 @@
 
 我的每天摄入信息的一部分，跟我一起一起大量摄入信息，构建自己的认知体系，增加自己的视野和判断能力
 
+# 2025-10-23
+
+- [https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest](https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest)：很peace的感觉，我坚信我就是很rush也很workaholic的人，有时候用一些citywalk、reading、painting来对冲。或许文章想表达的是每种人生都是值得过的，只要你喜欢，无需用他人的标准来衡量自己。The truth is: there are many like you. Many like me. Living quietly. Doing what they like. Finding peace in repetition. A simple boring life may not be shiny and exciting, but it’s peaceful.
+- [https://nathan.rs/posts/roberta-diffusion/](https://nathan.rs/posts/roberta-diffusion/)：很有趣的观点，BERT通过多步掩码训练，BERT可以约等于扩散模型，也能具备GPT一样的生成能力
+- [https://neal.fun/space-elevator/](https://neal.fun/space-elevator/)：可视化每个高度可能出现的东西，原来mallard居然能飞，还能飞这么高…帝王蝶和大黄蜂能飞那么高也很惊奇。滑倒最后只能感叹自然的伟大和人类的牛逼
+- [https://blog.abdellatif.io/production-rag-processing-5m-documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)：针对RAG非常make sense的建议
+- [https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)：或许可以叫做DeepScam了，简单的一句话+cursor，拯救了一切，不管实际的AI bubble多大，LLMs已经深度集成到我们的生活中了
+
 # 2025-10-22
 
 - [https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-context-engineering-with-drew-breunig/](https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-context-engineering-with-drew-breunig/)：Drew Breunig大佬谈上下文工程
+- [https://steipete.me/posts/just-talk-to-it](https://steipete.me/posts/just-talk-to-it)：一些与AI协作的姿势，最高效的还是直奔目的不要追求太fancy的东西，当然玩是例外
 
 # 2025-10-21
 
