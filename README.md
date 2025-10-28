@@ -2,6 +2,41 @@
 
 我的每天摄入信息的一部分，跟我一起一起大量摄入信息，构建自己的认知体系，增加自己的视野和判断能力
 
+# 2025-10-28
+
+# 2025-10-27
+
+- [https://consumed.today/](https://consumed.today/)：这个repo就是受这个网站影响的
+- [https://www.nan.fyi/database](https://www.nan.fyi/database)：可视化教育是王道。这篇可以让任何人了解数据库背后的东西，虽然讲的是针对KV的，但是依然可以看到很多MySQL之类的数据库也是站在这样的原理之上设计的。教学最好的方法就是循环渐进，讲为什么引入这个技术或者做这个改变，而不是一上来就说结论和现状，后者会更倾向让人死记硬背，前者可以引发思考，甚至未来还有能力去推动创新
+- [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)：Anthropic讲Workflow和Agent的文章，质量很高
+- [https://maurycyz.com/misc/the_cost_of_trash/](https://maurycyz.com/misc/the_cost_of_trash/)：个人相对抗爬虫的成本特别高，尤其现在AI加持下对数据的渴望。某些b端场景下也会因此有很大的经济损失
+
+# 2025-10-26
+
+- [https://github.com/anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)：anthropic开源的sandbox runtime，不需要容器，直接对进程施加文件和网络限制
+- [https://cme295.stanford.edu/](https://cme295.stanford.edu/)：斯坦福的大模型课程，吃灰+1。要是学生时代就可以爽吃一波了
+- [https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/](https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/)：DeepAgents流行，值得关注
+- [https://www.vtrivedy.com/posts/claude-code-sdk-haas-harness-as-a-service](https://www.vtrivedy.com/posts/claude-code-sdk-haas-harness-as-a-service)：以claude code sdk出发，介绍了harness和haas
+
+# 2025-10-25
+
+- [https://www.dwarkesh.com/p/andrej-karpathy](https://www.dwarkesh.com/p/andrej-karpathy)：还在听，倒是没有期望获得很多东西，单纯用练英语听力的角度来听
+- [https://x.com/karpathy/status/1979644538185752935](https://x.com/karpathy/status/1979644538185752935)：现在自媒体很喜欢标题党，上面这个访谈很多人就说karpathy唱衰ai，karpathy自己有特意发了推出来澄清一些事实。或许本身也是在oai利益相关方，需要一定的公关挽一下。理性看待，AI一直都不是二元对立的，这个世界也是，不要让偏见遮蔽自己的双眼
+- [https://news.ycombinator.com/item?id=45613567](https://news.ycombinator.com/item?id=45613567)：防御爬虫日益成为一个需要重视的问题了
+- [https://fullstack.rocks/article/sqlalchemy/brewing_with_sqlalchemy](https://fullstack.rocks/article/sqlalchemy/brewing_with_sqlalchemy)：SQLAlchemy系列教程，吃灰去吧
+- [https://github.com/virattt/dexter](https://github.com/virattt/dexter)：financial research agent，有需要的时候可以看看代码
+- [https://github.com/opendatalab/MinerU](https://github.com/opendatalab/MinerU)：PDF文档提取，想和rapidocr，docling，paddle对比一下
+- [https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)：Python3.14没有GIL了，对比了一下FastAPI（ASGI）和Flask（WSGI）的影响，只给了表格，感觉如果可以给出图进行可视化对比会更加直观
+- [https://open.substack.com/pub/artificialintelligencemadesimple/p/the-ai-is-a-bubble-narrative-is-stupid](https://open.substack.com/pub/artificialintelligencemadesimple/p/the-ai-is-a-bubble-narrative-is-stupid)：非常精彩的分析了围绕nvidia、oai最近的循环投资问题，直指nvidia走向垄断的路径
+
+# 2025-10-24
+
+- [https://github.com/iFurySt/AI-EBooks](https://github.com/iFurySt/AI-EBooks)：Galileo的4本AI相关的电子书，吃灰去吧
+- [https://www.youtube.com/watch?v=g7EGMWvJ1fI](https://www.youtube.com/watch?v=g7EGMWvJ1fI)：用Registry Pattern的方式来取代if elif链，在某些时候非常make sense，比如注册一些服务、工具或agent
+- [https://github.com/Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS)：小参数模型做deepsearch，mark一下
+- [https://seed.bytedance.com/en/seed3d](https://seed.bytedance.com/en/seed3d)：字节新出的image to 3D的模型
+- [https://open.substack.com/pub/bytebytego/p/the-memory-problem-why-llms-sometimes](https://open.substack.com/pub/bytebytego/p/the-memory-problem-why-llms-sometimes?r=2eqm57&utm_medium=ios)：大模型窗口大小问题，简单科普属于，没太多深度
+
 # 2025-10-23
 
 - [https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest](https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest)：很peace的感觉，我坚信我就是很rush也很workaholic的人，有时候用一些citywalk、reading、painting来对冲。或许文章想表达的是每种人生都是值得过的，只要你喜欢，无需用他人的标准来衡量自己。The truth is: there are many like you. Many like me. Living quietly. Doing what they like. Finding peace in repetition. A simple boring life may not be shiny and exciting, but it’s peaceful.
@@ -9,6 +44,9 @@
 - [https://neal.fun/space-elevator/](https://neal.fun/space-elevator/)：可视化每个高度可能出现的东西，原来mallard居然能飞，还能飞这么高…帝王蝶和大黄蜂能飞那么高也很惊奇。滑倒最后只能感叹自然的伟大和人类的牛逼
 - [https://blog.abdellatif.io/production-rag-processing-5m-documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)：针对RAG非常make sense的建议
 - [https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)：或许可以叫做DeepScam了，简单的一句话+cursor，拯救了一切，不管实际的AI bubble多大，LLMs已经深度集成到我们的生活中了
+- [https://ditto.xiaohongshu.net/ditto/vincent/a49284f45b184e2b8f79da0670943256/dynpath250272a8?fullscreen=true&resource_instance_id=255875&naviHidden=yes&source=share&page_source=search_result_notes.onebox&search_id=2fhp8piuu32p9qmnd3h3b&isOverseaData=0&isOverseaRegister=0&lang=zh_cn&xhs-statusbar-height=54&instance_id=a49284f45b184e2b8f79da0670943256&page_instance=2683](https://ditto.xiaohongshu.net/ditto/vincent/a49284f45b184e2b8f79da0670943256/dynpath250272a8?fullscreen=true&resource_instance_id=255875&naviHidden=yes&source=share&page_source=search_result_notes.onebox&search_id=2fhp8piuu32p9qmnd3h3b&isOverseaData=0&isOverseaRegister=0&lang=zh_cn&xhs-statusbar-height=54&instance_id=a49284f45b184e2b8f79da0670943256&page_instance=2683)：明天去线下小局。里面很多笔记的评论干活十足，用心翻阅一下可以通过碎片化问答拼凑出很多有价值的东西，要是有人能让AI抓一下这些内容出来就好了，绝对很有价值
+- [https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/](https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/)：every idea starts small，非常make sense。8/2法则也很符合现在AI Copilot的时代，做完备的思考和计划，AI辅助，是比较舒服的姿势
+- [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)：
 
 # 2025-10-22
 
