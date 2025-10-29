@@ -2,7 +2,16 @@
 
 我的每天摄入信息的一部分，跟我一起一起大量摄入信息，构建自己的认知体系，增加自己的视野和判断能力
 
+# 2025-10-29
+
+- [https://www.youtube.com/playlist?list=PLZHnYvH1qtOZCUU5UAui608MaZN_60dmK](https://www.youtube.com/playlist?list=PLZHnYvH1qtOZCUU5UAui608MaZN_60dmK)：Nvidia GTC 2025，非常值得一看。每次看完GTC，对AI泡沫的感觉又少了一点，感叹人类科技的发展。另外Nvidia的Creative Team做的视频是真的很有料，点赞
+
 # 2025-10-28
+
+- [https://github.com/yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course)：这两天在看斯坦福的AI课，有人给我推荐了这个，感觉不错，先吃灰，后面可以看看
+- [https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903](https://news.mit.edu/2025/3-questions-pros-cons-synthetic-data-ai-kalyan-veeramachaneni-0903)：2024年60%用于AI应用的数据是合成数据。合成数据适用于：软件和性能测试，训练模型。
+- [https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)：医疗行业发展这么猛，没有关注就很容易忽略，还是要在金融、教育和医疗这些主流行业里多关注一下行业趋势
+- [https://atlassianblog.wpengine.com/wp-content/uploads/2025/09/atlassian-ai-collaboration-report-2025.pdf](https://atlassianblog.wpengine.com/wp-content/uploads/2025/09/atlassian-ai-collaboration-report-2025.pdf)：Atlassian的AI报告，或许有一定的参考价值？但是用他们家产品的更多还是成规模的企业，数据样本仍然不能代表一切
 
 # 2025-10-27
 
@@ -46,7 +55,7 @@
 - [https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)：或许可以叫做DeepScam了，简单的一句话+cursor，拯救了一切，不管实际的AI bubble多大，LLMs已经深度集成到我们的生活中了
 - [https://ditto.xiaohongshu.net/ditto/vincent/a49284f45b184e2b8f79da0670943256/dynpath250272a8?fullscreen=true&resource_instance_id=255875&naviHidden=yes&source=share&page_source=search_result_notes.onebox&search_id=2fhp8piuu32p9qmnd3h3b&isOverseaData=0&isOverseaRegister=0&lang=zh_cn&xhs-statusbar-height=54&instance_id=a49284f45b184e2b8f79da0670943256&page_instance=2683](https://ditto.xiaohongshu.net/ditto/vincent/a49284f45b184e2b8f79da0670943256/dynpath250272a8?fullscreen=true&resource_instance_id=255875&naviHidden=yes&source=share&page_source=search_result_notes.onebox&search_id=2fhp8piuu32p9qmnd3h3b&isOverseaData=0&isOverseaRegister=0&lang=zh_cn&xhs-statusbar-height=54&instance_id=a49284f45b184e2b8f79da0670943256&page_instance=2683)：明天去线下小局。里面很多笔记的评论干活十足，用心翻阅一下可以通过碎片化问答拼凑出很多有价值的东西，要是有人能让AI抓一下这些内容出来就好了，绝对很有价值
 - [https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/](https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/)：every idea starts small，非常make sense。8/2法则也很符合现在AI Copilot的时代，做完备的思考和计划，AI辅助，是比较舒服的姿势
-- [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)：
+- [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)
 
 # 2025-10-22
 
